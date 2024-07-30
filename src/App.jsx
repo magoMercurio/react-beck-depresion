@@ -236,9 +236,9 @@ const questions = [
 function App() {
 
   return (
-    <>
+    <main className="mx-8">
       <h1 className="flex justify-center items-center capitalize">Test de depresion de beck</h1>
-    </>
+    </main>
   )
 }
 
